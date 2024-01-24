@@ -1,4 +1,4 @@
-[![](./ressources/spaceSurgeHome.png)](spaceSurgeHome.png)
+[![](./ressources/spaceSurgeHome.png)](ressources/spaceSurgeHome.png)
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -20,6 +20,12 @@ Prerequisite
 - [Xcode](https://developer.apple.com/xcode) installed on your machine.
 
 - Click on Product/Run in the Xcode menu bar to build and run the project
+
+
+<!-- USAGE EXAMPLES -->
+## Usage
+
+[![](./ressources/spaceSurgeScreenshot.png)](ressources/spaceSurgeScreenshot.png)
 
 <!-- CONTACT -->
 ## Contact
