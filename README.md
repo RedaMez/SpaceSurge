@@ -1,4 +1,4 @@
-[![](./Space Surge/Assets.xcassets/spaceSurgeHome.imageset/spaceSurgeHome.png)](spaceSurgeHome.png)
+[![](./Space\ Surge/Assets.xcassets/spaceSurgeHome.imageset/spaceSurgeHome.png)](spaceSurgeHome.png)
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
